@@ -3,7 +3,7 @@
 
 IndiaPulse is a data-driven economic intelligence system that tracks India’s inflation, fuel prices, RBI policy, and currency movement to detect economic stress and macroeconomic trends.
 
-This project uses real Indian economic data to analyze:
+This project uses real Indian economic data to analyze:-
 
 Inflation dynamics
 
